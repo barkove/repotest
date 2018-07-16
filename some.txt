@@ -1,1 +1,2 @@
-This file contains some text, it is evident.
+This file contains some text.
+It is evident that name of file corresponds to its content.

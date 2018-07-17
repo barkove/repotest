@@ -2,3 +2,4 @@ This file contains some text.
 It is evident that name of file corresponds to its content.
 Changes #1 is here.
 Changes #2 is here.
+Changes #3 is here.
